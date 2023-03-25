@@ -1,2 +1,2 @@
 # trymongoose
-using mongoose for dB
+using mongoose for DB
